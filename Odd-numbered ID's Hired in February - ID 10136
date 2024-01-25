@@ -4,6 +4,17 @@ Question:
 
 Find employees who started in February and have odd-numbered employee IDs.
 
+Table: Worker
+
+Table Structure:
+
+worker_id: int
+first_name: varchar
+last_name: varchar
+salary: int
+joining_date: datetime
+department: varchar
+
 Solution:
 
 SELECT * FROM WORKER
