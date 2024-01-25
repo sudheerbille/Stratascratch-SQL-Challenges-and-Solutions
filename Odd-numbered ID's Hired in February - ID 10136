@@ -1,0 +1,11 @@
+## Odd-numbered ID's Hired in February - ID 10136  ##
+
+Question:
+
+Find employees who started in February and have odd-numbered employee IDs.
+
+Solution:
+
+SELECT * FROM WORKER
+WHERE MONTHNAME(JOINING_DATE) IN ('February')
+AND MOD(WORKER_ID,2) NOT IN (0);
