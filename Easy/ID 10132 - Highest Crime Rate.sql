@@ -1,4 +1,4 @@
-## Highest Crime Rate - ID 10132 ##
+## ID 10132 - Highest Crime Rate ##
 
 Question:
 Find the number of crime occurrences for each day of the week. Output the day alongside the corresponding crime count.
