@@ -1,4 +1,4 @@
-## Lyft Driver Wages - ID 10003 ##
+## ID 10003 - Lyft Driver Wages ##
 
 Question:
 Find all Lyft drivers who earn either equal to or less than 30k USD or equal to or more than 70k USD.
