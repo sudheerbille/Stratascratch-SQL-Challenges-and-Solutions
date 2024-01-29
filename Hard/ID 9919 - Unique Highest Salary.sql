@@ -1,4 +1,4 @@
-## Unique Highest Salary - ID 9919 ##
+## Unique Highest Salary -  ##
 
 Question:
 Find the highest salary among salaries that appears only once.
