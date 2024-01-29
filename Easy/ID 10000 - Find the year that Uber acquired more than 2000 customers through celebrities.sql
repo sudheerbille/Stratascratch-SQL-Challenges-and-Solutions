@@ -1,6 +1,6 @@
 ## https://platform.stratascratch.com/coding/10000-find-the-year-that-uber-acquired-more-than-2000-customers-through-celebrities?code_type=3 ##
 
-## Find the year that Uber acquired more than 2000 customers through celebrities - ID 10000 ##
+## ID 10000 - Find the year that Uber acquired more than 2000 customers through celebrities ##
 
 Question:
 Find the year that Uber acquired more than 2000 customers through advertising using celebrities.
