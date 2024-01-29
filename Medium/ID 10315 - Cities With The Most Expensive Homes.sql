@@ -1,4 +1,4 @@
-## Cities With The Most Expensive Homes - ID 10315 ##
+## ID 10315 - Cities With The Most Expensive Homes ##
 
 Question:
 Write a query that identifies cities with higher than average home prices when compared to the national average. Output the city names.
