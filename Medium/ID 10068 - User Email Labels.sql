@@ -1,4 +1,4 @@
-## User Email Labels - ID 10068 ##
+## ID 10068 - User Email Labels ##
 
 Question:
 Find the number of emails received by each user under each built-in email label.
