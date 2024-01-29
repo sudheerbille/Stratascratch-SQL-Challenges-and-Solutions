@@ -1,4 +1,4 @@
-## Finding Doctors - ID 10356 ##
+## ID 10356 - Finding Doctors ##
 
 Question :
 Find doctors with the last name of 'Johnson' in the employee list. The output should contain both their first and last names.
