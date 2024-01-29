@@ -1,4 +1,4 @@
-## Norwegian Alpine Skiers - ID 9955 ##
+## ID 9955 - Norwegian Alpine Skiers ##
 
 Question:
 Find all Norwegian alpine skiers who participated in 1992 but didn't participate in 1994. Output unique athlete names.
