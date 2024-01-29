@@ -1,4 +1,4 @@
-## Salaries Differences - ID 10308 ##
+## ID 10308 - Salaries Differences ##
 
 Question:
   
