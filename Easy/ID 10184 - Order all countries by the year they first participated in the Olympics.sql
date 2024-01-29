@@ -1,6 +1,6 @@
 ## URL: https://platform.stratascratch.com/coding/10184-order-all-countries-by-the-year-they-first-participated-in-the-olympics?code_type=3 ##
 
-## Order all countries by the year they first participated in the Olympics - ID 10184 ##  
+## ID 10184 - Order all countries by the year they first participated in the Olympics ##  
 
 Question: 
 
