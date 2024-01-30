@@ -4,20 +4,6 @@ Question:
 Find the number of emails received by each user under each built-in email label.
 The email labels are: 'Promotion', 'Social', and 'Shopping'. Output the user along with the number of promotion, social, and shopping mails count.
 
-Tables: google_gmail_emails, google_gmail_labels
-
-Tables Structure:
-  
-google_gmail_emails
-id: int
-from_user: varchar
-to_user: varchar
-day: int
-
-google_gmail_labels
-email_id: int
-label: varchar
-
 Solution:
 SELECT GE.TO_USER, 
        COUNT(CASE WHEN GL.LABEL IN ('Promotion') THEN GE.ID ELSE NULL END) AS Promotion,
