@@ -1,21 +1,9 @@
 ## ID 10355 - Employees With Same Birth Month ##
 
 Quesstion : 
-
 Identify the number of employees within each department that share the same birth month. Your output should list the department, birth month, 
 and the number of employees from that department who were born in that month. If a month has no employees born in it within a specific department, 
 report this month as having 0 employees. The "profession" column stores the department names of each employee.
-
-Table: employee_list
-
-Table_Structure:
-
-first_name: varchar
-last_name: varchar
-profession: varchar
-employee_id: int
-birthday: datetime
-birth_month: int
 
 Solution:
 
