@@ -9,7 +9,7 @@ Sort the result based on the number of inspections in descending order.
 Solution:
 
 SELECT FACILITY_ZIP,
-       COUNT(*) AS NUMBER_OF_INSPECTIONS
+       COUNT(DISTINCT FACILITY_NAME) AS NUMBER_OF_INSPECTIONS
 FROM los_angeles_restaurant_health_inspections
 GROUP BY 1
 ORDER BY 2 DESC;
